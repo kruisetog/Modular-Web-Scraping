@@ -1,4 +1,3 @@
-from msilib.schema import tables
 import urllib
 from bs4 import BeautifulSoup
 import json
